@@ -1,0 +1,13 @@
+{
+  "name": "hack-cambridge-website",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist"
+  },
+  "routes": [
+    {
+      "pattern": "hackcambridge.com",
+      "custom_domain": true
+    }
+  ]
+}
