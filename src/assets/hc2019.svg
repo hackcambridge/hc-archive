@@ -1,0 +1,42 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" fill="white"/>
+<mask id="mask0_2_97" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="24" y="7" width="208" height="241">
+<path d="M232 7.28495H24V247.715H232V7.28495Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2_97)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 7.28495L232 67.4134V187.671L128 247.798L24 187.671V67.4134L128 7.28495Z" fill="#0092DB"/>
+<mask id="mask1_2_97" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="24" y="7" width="208" height="241">
+<path d="M232 7.28495H24V247.715H232V7.28495Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_2_97)">
+<g style="mix-blend-mode:overlay" opacity="0.4">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 7.28495L232 67.4134V187.671L128 127.542V7.28495Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M232 187.671L128 247.798L24 187.671L128 127.542L232 187.671Z" fill="black"/>
+<path d="M24 67.4134L128 7.28495V127.542L24 187.671V67.4134Z" fill="#808080"/>
+</g>
+</g>
+<mask id="mask2_2_97" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="24" y="7" width="208" height="241">
+<path d="M232 7.28495H24V247.715H232V7.28495Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_2_97)">
+<g style="mix-blend-mode:overlay" opacity="0.4">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 247.798L24 187.671V67.4134L128 127.542V247.798Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 67.4134L128 7.28495L232 67.4134L128 127.542L24 67.4134Z" fill="white"/>
+<path d="M232 187.671V67.4134L128 127.542V247.798L232 187.671Z" fill="#808080"/>
+</g>
+</g>
+<g style="mix-blend-mode:color">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 67.4134L180 97.4778V157.606L128 187.671L76 157.606V97.4778L128 67.4134Z" fill="#FF1700"/>
+</g>
+<g style="mix-blend-mode:lighten" opacity="0.28">
+<path d="M180 97.4778V157.606L128 127.542V67.4134L180 97.4778Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 67.4134L76 97.4778V157.606L128 127.542V67.4134Z" fill="#808080"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 157.606L128 187.671L76 157.606L128 127.542L180 157.606Z" fill="black"/>
+</g>
+<g style="mix-blend-mode:lighten" opacity="0.28">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 187.671L76 157.606V97.4778L128 127.542V187.671Z" fill="black"/>
+<path d="M180 157.606V97.4778L128 127.542V187.671L180 157.606Z" fill="#808080"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M76 97.4778L128 67.4134L180 97.4778L128 127.542L76 97.4778Z" fill="white"/>
+</g>
+</g>
+</svg>
